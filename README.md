@@ -2,4 +2,4 @@
 This is my capstone project folder
 
 
-This are the image i get directly from the construction site
+This are the images i get directly from the construction site and simulated myself !!!
